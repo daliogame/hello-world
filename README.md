@@ -1,2 +1,3 @@
 # hello-world
-it is mi tutorial
+that mi tutorial 
+am bosse
